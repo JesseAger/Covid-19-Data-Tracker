@@ -1,5 +1,3 @@
-<h1>Covid-19 Global Data Traker</h1>
-
 # 📊 COVID-19 Data Analysis Project
 
 This project presents a comprehensive analysis of COVID-19 data, with a focus on trends in total cases, deaths, and vaccinations for selected countries. It includes data cleaning, exploration, visualization, and insights — all performed in Google Colab using Python libraries such as `pandas`, `matplotlib`, `seaborn`, and `plotly`.
